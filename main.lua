@@ -9,7 +9,7 @@
 -- 3. Run THIS file in your executor.
 -- ═══════════════════════════════════════════════════════════
 
-local BASE_URL = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/"
+local BASE_URL = "local BASE_URL = "https://raw.githubusercontent.com/Yearn4441/cqbhell/refs/heads/main/""
 
 -- ═══════════════════════════════════════════════════════════
 --  INLINE MISC (move to misc.lua later)
